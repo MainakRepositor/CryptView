@@ -1,4 +1,4 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+# CryptAstra 🌷🕉
 
 ## Demo
 #### Here is a working live demo :  
