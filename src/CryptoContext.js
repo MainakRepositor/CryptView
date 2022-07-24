@@ -10,6 +10,8 @@ const CryptoContext = ({ children }) => {
     if (currency === "INR") setSymbol("₹");
     else if (currency === "USD") setSymbol("$");
     else if (currency === "EUR") setSymbol("€");
+    else if (currency === "JPY") setSymbol("¥");
+    else if (currency === "AED") setSymbol("د.إ");
   }, [currency]);
 
   return (
