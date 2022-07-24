@@ -39,6 +39,7 @@ export default function CoinsTable() {
       cursor: "pointer",
       "&:hover": {
         backgroundColor: "#0adbf2",
+        color:"black",
       },
       fontFamily: "Montserrat",
     },
