@@ -19,12 +19,12 @@ code {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #aa52f2;
+  background: #000000;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #888;
+  background:#5d00ff;
 }
 
 /* Handle on hover */
