@@ -52,7 +52,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Summon the Era of CryptoVerse. Made by: <a href="https://www.github.com/MainakRepositor">Mainak-Crymbha</a>
+            Summon the Era of CryptoVerse.
           </Typography>
         </div>
         <Carousel />
