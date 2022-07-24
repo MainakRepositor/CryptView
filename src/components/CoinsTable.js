@@ -38,14 +38,14 @@ export default function CoinsTable() {
       backgroundColor: "#16171a",
       cursor: "pointer",
       "&:hover": {
-        backgroundColor: "#0adbf2",
-        color:"black",
+        backgroundColor: "#190852",
+        
       },
       fontFamily: "Montserrat",
     },
     pagination: {
       "& .MuiPaginationItem-root": {
-        color: "blue",
+        color: "white",
       },
     },
   });
