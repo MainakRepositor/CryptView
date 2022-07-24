@@ -1,7 +1,7 @@
 # CryptAstra 🌷🕉
 
-## Demo
-#### Here is a working live demo :  
+## Working Demo at: https://cryptastra.netlify.app/
+ 
 
 ## Built with 
 
