@@ -50,6 +50,7 @@ function Banner() {
               fontWeight: "bold",
               textTransform: "capitalize",
               fontFamily: "Montserrat",
+                   
             }}
           >
             Summon the Era of CryptoVerse.
