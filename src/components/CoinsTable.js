@@ -38,13 +38,13 @@ export default function CoinsTable() {
       backgroundColor: "#16171a",
       cursor: "pointer",
       "&:hover": {
-        backgroundColor: "#131111",
+        backgroundColor: "#0adbf2",
       },
       fontFamily: "Montserrat",
     },
     pagination: {
       "& .MuiPaginationItem-root": {
-        color: "gold",
+        color: "blue",
       },
     },
   });
@@ -93,7 +93,7 @@ export default function CoinsTable() {
           Cryptocurrency Prices by Market Cap
         </Typography>
         <TextField
-          label="Search For a Crypto Currency.."
+          label="Search For a Crypto Currency..."
           variant="outlined"
           style={{ marginBottom: 20, width: "100%" }}
           onChange={(e) => setSearch(e.target.value)}
