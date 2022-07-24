@@ -46,12 +46,13 @@ function Banner() {
           <Typography
             variant="subtitle2"
             style={{
-              color: "darkgrey",
+              color: "white",
+              fontWeight: "bold",
               textTransform: "capitalize",
               fontFamily: "Montserrat",
             }}
           >
-            Usher in the era of CryptoVerse. Made by: <a href="https://www.github.com/MainakRepositor">Mainak-Crymbha</a>
+            Summon the Era of CryptoVerse. Made by: <a href="https://www.github.com/MainakRepositor">Mainak-Crymbha</a>
           </Typography>
         </div>
         <Carousel />
