@@ -1,6 +1,6 @@
 # CryptView 🌷🕉
 
-## Working Demo at: https://cryptastra.netlify.app/
+## Working Demo at: https://cryptview.netlify.app/
  
 
 ## Built with 
