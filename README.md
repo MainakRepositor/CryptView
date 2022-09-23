@@ -10,7 +10,7 @@
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
 ## 1. Homepage
-![s1](https://user-images.githubusercontent.com/64016811/180652344-f5ee0b16-2fb0-4625-b9da-8c3d5cd79ac2.png)
+![1](https://user-images.githubusercontent.com/64016811/191894574-c27c22ee-8074-45b8-9d0d-42a8230ebf51.png)
 
 ## 2. Tabulation
 ![s2](https://user-images.githubusercontent.com/64016811/180652361-587de3bd-cebd-4334-a188-6a1d9f9ba77f.png)
