@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            CryptAstra
+            CryptView
           </Typography>
           <Typography
             variant="subtitle2"
