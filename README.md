@@ -1,4 +1,4 @@
-# CryptView 🌷🕉
+# CryptView 👀
 
 ## Working Demo at: https://cryptview.netlify.app/
  
