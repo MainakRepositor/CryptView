@@ -1,4 +1,4 @@
-# CryptAstra 🌷🕉
+# CryptView 🌷🕉
 
 ## Working Demo at: https://cryptastra.netlify.app/
  
